@@ -106,5 +106,4 @@ npm run deploy
 
 ### Ссылка на проект
 
-Публикация выполняется владельцем репозитория. После неё добавьте сюда фактическую
-ссылку из Settings → Pages. Адрес имеет вид `https://владелец.github.io/mesto-pages/`.
+[Mesto — опубликованный сайт](https://pkznts.github.io/mesto-pages/)
